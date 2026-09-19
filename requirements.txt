@@ -1,4 +1,4 @@
-fastapi
 uvicorn
+fastapi
 httpx[http2]
 pycryptodome
